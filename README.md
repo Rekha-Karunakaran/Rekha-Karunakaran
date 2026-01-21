@@ -15,6 +15,7 @@ I am an aspiring software developer with a strong interest in web development an
 - ☁️ Beginner in Cloud Concepts  
 - 🛠 Git & GitHub  
 - 🌐 Responsive Web Design
+- 👩‍💻 Prompting
 
 ---
 
