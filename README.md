@@ -1,7 +1,7 @@
 # Rekha Karunakaran
 Hello world , This is my profile !!!👋🤗
 
-<img width="1536" height="1024" alt="ChatGPT Image Jan 21, 2026, 07_04_28 AM" src="https://github.com/user-attachments/assets/ff12befa-84d6-4a82-9be5-bd6bfcbcacc1" />
+<img width="1400" height="700" alt="ChatGPT Image Jan 21, 2026, 07_04_28 AM" src="https://github.com/user-attachments/assets/ff12befa-84d6-4a82-9be5-bd6bfcbcacc1" />
 
 🌱 Aspiring Developer | Continuous Learner | Passionate about Building
 
